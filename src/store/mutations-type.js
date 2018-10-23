@@ -1,0 +1,9 @@
+export const SHOW_BAR = 'SHOW_BAR';
+export const HIDE_BAR = 'HIDE_BAR';
+export const GET_LATEST_NEWS = 'GET_LATEST_NEWS';  //获取今日新闻数据
+export const  GET_CURRENT_NEWS_DETAIL = "GET_CURRENT_NEWS_DETAIL"; //获取当前详情页数据
+export const  GET_CURRENT_NEWS_DETAIL_EXTRA = "GET_CURRENT_NEWS_DETAIL_EXTRA"; //获取当前详情页数据
+export const  GET_NEWS_DETAIL_ID = 'CHANGE_NEWS_DETAIL_ID'; //获取当前详情页id
+export const  GET_CURRENT_THEME_ID = 'GET_CURRENT_THEME_ID';
+export const GET_CURRENT_THEME_LIST = 'GET_CURRENT_THEME_LIST';
+export const GET_CURRENT_THEME_DETAIL = 'GET_CURRENT_THEME_DETAIL';
