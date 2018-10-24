@@ -1,21 +1,11 @@
 # zhihu-daily
 
-> A Vue.js project
+> 这是一个基于Vue全家桶开发的知乎日报WebApp,页面样式参考了安卓系统的知乎日报APP
 
-## Build Setup
+## 声明
 
-``` bash
-# install dependencies
-npm install
+## 技术栈
+ vue2 + vue-router + axios + vuex + vue-cli + express
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 在线预览DEMO
+  知乎日报DEMO(47.106.107.188:8888)
