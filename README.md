@@ -8,4 +8,4 @@
  vue2 + vue-router + axios + vuex + vue-cli + express
 
 ## 在线预览DEMO
-  知乎日报DEMO(47.106.107.188:8888)
+  知乎日报DEMO(http://47.106.107.188:8888)
