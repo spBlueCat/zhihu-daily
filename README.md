@@ -51,10 +51,6 @@
 |	|	|-- news_qa_auto.css		// 页面详情内容css
 |-- .babelrc					// ES6语法编译配置
 |-- .editorconfig				// 代码编写规格配置
-|-- .eslintignore				// 忽略eslint检查文件配置
-|-- .eslint.js					// eslint配置文件
-|-- .gitattributes				// 修改项目在github显示类型配置文件
-|-- .gitignore					// git忽略上传文件
 |-- .postcssrc.js
 |-- index.html					// 入口html文件
 |-- package.json				// 项目及工具的依赖配置文件

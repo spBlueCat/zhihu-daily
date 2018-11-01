@@ -13,9 +13,9 @@
         </div>-->
       <swiper :options="swiperOption" ref="mySwiper">
         <!-- slides -->
-        <swiper-slide class="swiper-slide" v-for="item in this.$store.state.latestNews.top_stories" :key="item.id" @click="getNewsDetailId(item.id)">
+        <swiper-slide class="swiper-slide" v-for="item in this.$store.state.latestNews.top_stories" :key="item.id" >
           <img :src='item.image' alt="">
-          <div class="mask"></div>
+          <div class="mask" @click="getNewsDetailId(item.id)"></div>
           <p class="title">{{item.title}}</p>
         </swiper-slide>
         <!-- Optional controls -->

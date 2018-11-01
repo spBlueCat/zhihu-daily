@@ -24,11 +24,6 @@
         beforeNewsList:[],
       }
     },
-    watch:{
-      beforeData:function () {
-        console.log(this.beforeData);
-      }
-    },
     mounted(){
       let _this=this;
       _this.getApiDate();
