@@ -4,7 +4,7 @@
 ## 技术栈
  vue2 + vue-router + axios + vuex + vue-cli + sass + express
 
- ## 在线预览DEMO
+ ## 在线预览DEMO(推荐使用Chrome浏览器手机调试模式观看)
    [知乎日报DEMO](http://47.106.107.188:8888/#/home)
 
  ## 项目截图
@@ -14,7 +14,7 @@
   ![过往新闻](https://github.com/spBlueCat/zhihu-daily/blob/master/screenshots/before-news.png)
   ### 新闻详情页
   ![新闻详情页](https://github.com/spBlueCat/zhihu-daily/blob/master/screenshots/detail.png)
-  ### 侧边栏
+  ### 侧边栏(由于知乎日报近期改版，因此侧边栏列没有列表项)
   ![侧边栏](https://github.com/spBlueCat/zhihu-daily/blob/master/screenshots/sidebar.png)
 
 ## 目录结构
